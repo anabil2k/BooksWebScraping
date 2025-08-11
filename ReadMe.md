@@ -55,7 +55,8 @@ The goal is to extract data from different types of HTML elements and store them
   - Product Name 
   - Price 
   - Available Colors 
-- **Example Output:**
+- **Output:** `Featured_Products.json`
+- **Printed Output:**
 ```json
 [
     {"id": "101", "name": "Wireless Headphones", "price": "$49.99", "colors": "Black, White, Blue"},

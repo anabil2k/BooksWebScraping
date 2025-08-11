@@ -1,0 +1,26 @@
+[
+    {
+        "Book Title": "Sharp Objects",
+        "Price": "\u00a347.82",
+        "Stock Availability": "\u00a347.82",
+        "Button text": "Add to basket"
+    },
+    {
+        "Book Title": "In a Dark, Dark Wood",
+        "Price": "\u00a319.63",
+        "Stock Availability": "\u00a319.63",
+        "Button text": "Add to basket"
+    },
+    {
+        "Book Title": "The Past Never Ends",
+        "Price": "\u00a356.50",
+        "Stock Availability": "\u00a356.50",
+        "Button text": "Add to basket"
+    },
+    {
+        "Book Title": "A Murder in Time",
+        "Price": "\u00a316.64",
+        "Stock Availability": "\u00a316.64",
+        "Button text": "Add to basket"
+    }
+]
